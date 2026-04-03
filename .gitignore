@@ -1,3 +1,7 @@
 DataRelease-main/
 *.zip
 research/
+
+# Planck likelihood packages — large binaries, not tracked in git
+planck_likelihoods/*.tar.gz
+planck_likelihoods/*.tgz
