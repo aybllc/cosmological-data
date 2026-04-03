@@ -5,3 +5,8 @@ research/
 # Planck likelihood packages — large binaries, not tracked in git
 planck_likelihoods/*.tar.gz
 planck_likelihoods/*.tgz
+
+# DES-SN3YR tarballs and MCMC chains — large, not tracked in git
+des_sn3yr/*.tar.gz
+des_sn3yr/*.tgz
+des_sn3yr/05-COSMOLOGY/COSMOMC_CHAINS/
